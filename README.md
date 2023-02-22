@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Island Blogs</b></h3>
 
 </div>
 
@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This blog app is a simple web application that allows users to create, read, update, and delete posts.Users can also add comments to posts and like posts.
 
 **[your_project__name]** is a...
 
@@ -70,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> The app is built using a web framework and a relational database management system
 
 <details>
   <summary>Client</summary>
@@ -97,11 +97,12 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> The app has four main features:
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[User management]**
+- **[Post management]**
+- **[Comment management]**
+- **[Like management]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,17 +206,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Davian Beroni**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [dadadon](https://github.com/dadadon)
+- Twitter: [Davian Beroni](https://twitter.com/davianberoni)
+- LinkedIn: [Davian Beroni](https://www.linkedin.com/in/davian-beroni/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
