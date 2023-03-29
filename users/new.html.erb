@@ -1,0 +1,14 @@
+<!-- app/views/users/new.html.erb -->
+<h1>New User</h1>
+<%= form_with model: @user, url: users_path do |f| %>
+  <%= f.label :name %>
+  <%= f.text_field :name %>
+
+  <%= f.label :photo %>
+  <%= f.text_field :photo %>
+
+  <%= f.label :bio %>
+  <%= f.text_area :bio %>
+
+  <%= f.submit "Create User" %>
+<% end %>

@@ -1,0 +1,14 @@
+<!-- app/views/users/edit.html.erb -->
+<h1>Edit User</h1>
+<%= form_with model: @user, url: user_path(@user), method: :patch do |f| %>
+  <%= f.label :name %>
+  <%= f.text_field :name %>
+
+  <%= f.label :photo %>
+  <%= f.text_field :photo %>
+
+  <%= f.label :bio %>
+  <%= f.text_area :bio %>
+
+  <%= f.submit "Update User" %>
+<% end %>
