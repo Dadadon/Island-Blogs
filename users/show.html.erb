@@ -1,0 +1,7 @@
+<!-- app/views/users/show.html.erb -->
+<h1><%= @user.name %></h1>
+<p><strong>Photo:</strong> <%= @user.photo %></p>
+<p><strong>Bio:</strong> <%= @user.bio %></p>
+<p><strong>Posts:</strong> <%= @user.posts_counter %></p>
+<%= link_to "Edit User", edit_user_path(@user) %>
+<%= link_to "Delete User", user_path(@user), method: :delete, data: { confirm: "Are you sure?" } %>
